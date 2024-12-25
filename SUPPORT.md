@@ -1,6 +1,6 @@
 # How to Get Support
 
-**Interested in Build on Monad, fill out this [form](https://airtable.com/appvog3DlhII66gcr/shrPQlPSduD667tQT) and our team will reach out to you**
+**Interested in Build on Monad, fill out this [form](https://tally.so/r/nGBRJo) and our team will reach out to you**
 
 If you need other technical help, here are the best ways to get in touch with us:
 
