@@ -22,11 +22,14 @@
 
 ## 🌐 Join the Community
 
-- [Documentation](https://docs.monad.xyz)
 - [Discord](https://discord.gg/monaddev)
-- [Telegram](https://t.me/+4_vTrebYUR5hOTk0)
+- [Monad Developer Community Telegram](https://t.me/+4_vTrebYUR5hOTk0)
+- [🇮🇳 Monad India Builders](https://t.me/+sJ9z4PXvJ-A2YTll)
+- [🇻🇳 Monad Vietnam Builders](https://t.me/+2z7g8Gdrp0llYWM1)
 - [Substack](https://monadxyz.substack.com/)
 - [Join the team](https://jobs.ashbyhq.com/monad.foundation)
+- [Documentation](https://docs.monad.xyz)
 
 
-<!-- Add Monad Developer events calendar -->
+<!-- TODO: Add Monad Developer events calendar -->
+<!-- TODO: Add Developer Related Initiatives -->
