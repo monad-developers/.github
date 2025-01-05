@@ -1,6 +1,6 @@
 # Monad
 
-**Monad is a high-performance Ethereum-compatible L1.**
+**<a href="https://monad.xyz/" target="_blank">Monad</a> is a high-performance Ethereum-compatible L1.**
 
 ## 🛠 Resources
 
