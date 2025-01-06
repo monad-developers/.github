@@ -25,6 +25,7 @@
 - [Discord](https://discord.gg/monaddev)
 - [Monad Developer Community Telegram](https://t.me/+4_vTrebYUR5hOTk0)
 - [🇮🇳 Monad India Builders](https://t.me/+sJ9z4PXvJ-A2YTll)
+- [🇨🇳 Monad Mandarin Devs](https://t.me/+6zxPbnA81803OGQ9)
 - [🇻🇳 Monad Vietnam Builders](https://t.me/+2z7g8Gdrp0llYWM1)
 - [Substack](https://monadxyz.substack.com/)
 - [Join the team](https://jobs.ashbyhq.com/monad.foundation)
