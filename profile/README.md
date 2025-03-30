@@ -4,7 +4,9 @@
 
 ## 🛠 Resources
 
+- [Network Information](https://docs.monad.xyz/getting-started/network-information)
 - [Developer Portal](https://developers.monad.xyz)
+- [Monad for Developers](https://docs.monad.xyz/introduction/monad-for-developers)
 
 ### Guides
 
