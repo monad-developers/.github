@@ -10,11 +10,26 @@
 
 ### Guides
 
-- [Deploy a smart contract on Monad using Foundry](https://docs.monad.xyz/getting-started/deploy-smart-contract/foundry)
-- [Verify a smart contract on Monad using Foundry](https://docs.monad.xyz/getting-started/verify-smart-contract/foundry)
+#### Deploy Smart Contract
+- [Foundry](https://docs.monad.xyz/guides/deploy-smart-contract/foundry)
+- [Hardhat](https://docs.monad.xyz/guides/deploy-smart-contract/hardhat)
+- [Remix](https://docs.monad.xyz/guides/deploy-smart-contract/remix)
+
+#### Verify Smart Contract
+- [Foundry](http://docs.monad.xyz/guides/verify-smart-contract/foundry)
+- [Hardhat](https://docs.monad.xyz/guides/verify-smart-contract/hardhat)
+
+#### Indexing
+- [How to index token transfers with GhostGraph](https://docs.monad.xyz/guides/indexers/ghost)
+- [How to use Envio HyperIndex to build a token transfer notification bot](https://docs.monad.xyz/guides/tg-bot-using-envio)
+- [How to index every WMON transfer using QuickNode Streams](https://docs.monad.xyz/guides/indexers/quicknode-streams)
+
+#### AI
+- [How to build an MCP server that can interact with Monad Testnet](https://docs.monad.xyz/guides/monad-mcp)
+
+#### Miscellaneous
 - [Building a Donation Blink](https://docs.monad.xyz/guides/blinks-guide)
 - [How to use Reown AppKit to connect wallets to your app](https://docs.monad.xyz/guides/reown-guide)
-- [How to use Envio HyperIndex to build a token transfer notification bot](https://docs.monad.xyz/guides/tg-bot-using-envio)
 
 ### Templates
 - [Build a dApp with Scaffold-Eth-Monad](https://docs.monad.xyz/guides/scaffold-eth-monad)
