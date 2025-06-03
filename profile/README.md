@@ -27,6 +27,9 @@
 #### AI
 - [How to build an MCP server that can interact with Monad Testnet](https://docs.monad.xyz/guides/monad-mcp)
 
+#### Farcaster
+- [How to build a Farcaster Mini App](https://docs.monad.xyz/guides/farcaster-miniapp)
+
 #### Miscellaneous
 - [Building a Donation Blink](https://docs.monad.xyz/guides/blinks-guide)
 - [How to use Reown AppKit to connect wallets to your app](https://docs.monad.xyz/guides/reown-guide)
