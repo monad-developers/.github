@@ -1,51 +1,58 @@
 # Monad
 
-**Monad is a high-performance Ethereum-compatible L1.**
+Monad is a high-performance Ethereum-compatible L1.
 
-## 🛠 Resources
+## Testnet
 
+- [Testnet Hub](https://testnet.monad.xyz/)
+- [Testnet Faucet](https://faucet.monad.xyz/)
+- [Testnet Block Explorer](https://testnet.monadexplorer.com/)
+- [Testnet Network Visualization](https://www.gmonads.com/)
+- [Ecosystem Directory](https://www.monad.xyz/ecosystem)
+
+## Quick Reference
+- [Docs](https://docs.monad.xyz)
 - [Network Information](https://docs.monad.xyz/getting-started/network-information)
+- [Tooling & Infra on Testnet](https://docs.monad.xyz/tooling-and-infra)
+- [RPC Reference](https://docs.monad.xyz/reference)
 - [Developer Portal](https://developers.monad.xyz)
+
+## Architecture
 - [Monad for Developers](https://docs.monad.xyz/introduction/monad-for-developers)
+- [Architecture Survey](https://docs.monad.xyz/monad-arch/)
+- [R&D Blog](https://blog.monad.xyz/)
 
-### Guides
+## Templates
+- [Build a dApp with Scaffold-Eth-Monad](https://docs.monad.xyz/guides/scaffold-eth-monad)
+- [Monad Flavoured Hardhat Starter](https://github.com/monad-developers/hardhat-monad)
+- [Monad Flavoured Foundry Starter](https://github.com/monad-developers/foundry-monad)
 
-#### Deploy Smart Contract
+## Guides
+
+### Deploy Smart Contract
 - [Foundry](https://docs.monad.xyz/guides/deploy-smart-contract/foundry)
 - [Hardhat](https://docs.monad.xyz/guides/deploy-smart-contract/hardhat)
 - [Remix](https://docs.monad.xyz/guides/deploy-smart-contract/remix)
 
-#### Verify Smart Contract
+### Verify Smart Contract
 - [Foundry](http://docs.monad.xyz/guides/verify-smart-contract/foundry)
 - [Hardhat](https://docs.monad.xyz/guides/verify-smart-contract/hardhat)
 
-#### Indexing
-- [How to index token transfers with GhostGraph](https://docs.monad.xyz/guides/indexers/ghost)
-- [How to use Envio HyperIndex to build a token transfer notification bot](https://docs.monad.xyz/guides/tg-bot-using-envio)
-- [How to index every WMON transfer using QuickNode Streams](https://docs.monad.xyz/guides/indexers/quicknode-streams)
+### Indexing
+- [Indexing with GhostGraph](https://docs.monad.xyz/guides/indexers/ghost)
+- [Indexing with Envio](https://docs.monad.xyz/guides/tg-bot-using-envio)
+- [Indexing with QuickNode Streams](https://docs.monad.xyz/guides/indexers/quicknode-streams)
 
-#### AI
-- [How to build an MCP server that can interact with Monad Testnet](https://docs.monad.xyz/guides/monad-mcp)
+### AI
+- [Building an MCP server that interacts with Monad Testnet](https://docs.monad.xyz/guides/monad-mcp)
 
-#### Farcaster
-- [How to build a Farcaster Mini App](https://docs.monad.xyz/guides/farcaster-miniapp)
+### Farcaster
+- [Building a Farcaster Mini App](https://docs.monad.xyz/guides/farcaster-miniapp)
 
-#### Miscellaneous
-- [Building a Donation Blink](https://docs.monad.xyz/guides/blinks-guide)
-- [How to use Reown AppKit to connect wallets to your app](https://docs.monad.xyz/guides/reown-guide)
+### Miscellaneous
+- [Building interfaces with Blinks](https://docs.monad.xyz/guides/blinks-guide)
+- [Connecting wallets with Reown AppKit](https://docs.monad.xyz/guides/reown-guide)
 
-### Templates
-- [Build a dApp with Scaffold-Eth-Monad](https://docs.monad.xyz/guides/scaffold-eth-monad)
-- [Monad Flavoured Hardhat starter](https://github.com/monad-developers/hardhat-monad)
-- [Monad Flavoured Foundry Starter](https://github.com/monad-developers/foundry-monad)
-
-### Monad Architecture
-
-- [MonadDB](https://docs.monad.xyz/monad-arch/execution/monaddb)
-- [Parallel Execution](https://docs.monad.xyz/monad-arch/execution/parallel-execution)
-- [MonadBFT](https://docs.monad.xyz/monad-arch/consensus/monad-bft)
-- [Asynchronous Execution](https://docs.monad.xyz/monad-arch/consensus/asynchronous-execution)
-- [Raptorcast](https://docs.monad.xyz/monad-arch/consensus/raptorcast)
 
 ## 🌐 Join the Community
 
@@ -54,9 +61,7 @@
 - [🇮🇳 Monad India Builders](https://t.me/+sJ9z4PXvJ-A2YTll)
 - [🇨🇳 Monad Mandarin Devs](https://t.me/+6zxPbnA81803OGQ9)
 - [🇻🇳 Monad Vietnam Builders](https://t.me/+2z7g8Gdrp0llYWM1)
-- [Substack](https://monadxyz.substack.com/)
-- [Join the team](https://jobs.ashbyhq.com/monad.foundation)
-- [Documentation](https://docs.monad.xyz)
+- [Ecosystem Jobs](https://eco-jobs.monad.xyz/jobs)
 
 - [Subscribe to Monad Developer Events Calendar](https://monad-developers.github.io/monaddevelopercalendar/)
 
