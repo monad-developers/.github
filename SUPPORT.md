@@ -14,5 +14,5 @@ For bugs and feature requests, open an issue in the appropriate repository.
 ## Additional Resources
 
 - **Documentation**: [docs.monad.xyz](https://docs.monad.xyz)
-- [**Community Suggested Resources**](https://docs.monad.xyz/category/evm-resources)
+- [**Community Suggested Resources**](https://docs.monad.xyz/guides/evm-resources)
 <!-- TODO: Add Youtube Channel -->
