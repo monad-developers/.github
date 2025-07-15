@@ -62,7 +62,6 @@ Monad is a high-performance Ethereum-compatible L1.
 - [🇨🇳 Monad Mandarin Devs](https://t.me/+6zxPbnA81803OGQ9)
 - [🇻🇳 Monad Vietnam Builders](https://t.me/+2z7g8Gdrp0llYWM1)
 - [Ecosystem Jobs](https://eco-jobs.monad.xyz/jobs)
-
 - [Subscribe to Monad Developer Events Calendar](https://monad-developers.github.io/monaddevelopercalendar/)
 
 <!-- TODO: Add Developer Related Initiatives -->
