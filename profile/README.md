@@ -22,11 +22,6 @@ Monad is a high-performance Ethereum-compatible L1.
 - [Architecture Survey](https://docs.monad.xyz/monad-arch/)
 - [R&D Blog](https://blog.monad.xyz/)
 
-## Templates
-- [Build a dApp with Scaffold-Eth-Monad](https://docs.monad.xyz/guides/scaffold-eth-monad)
-- [Monad Flavoured Hardhat Starter](https://github.com/monad-developers/hardhat-monad)
-- [Monad Flavoured Foundry Starter](https://github.com/monad-developers/foundry-monad)
-
 ## Guides
 
 ### Deploy Smart Contract
@@ -46,13 +41,40 @@ Monad is a high-performance Ethereum-compatible L1.
 ### AI
 - [Building an MCP server that interacts with Monad Testnet](https://docs.monad.xyz/guides/monad-mcp)
 
-### Farcaster
-- [Building a Farcaster Mini App](https://docs.monad.xyz/guides/farcaster-miniapp)
-
 ### Miscellaneous
 - [Building interfaces with Blinks](https://docs.monad.xyz/guides/blinks-guide)
 - [Connecting wallets with Reown AppKit](https://docs.monad.xyz/guides/reown-guide)
 
+### Templates
+
+#### Web
+
+- [Build a dApp with Scaffold-Eth-Monad](https://docs.monad.xyz/guides/scaffold-eth-monad)
+- [Monad Flavoured Hardhat Starter](https://github.com/monad-developers/hardhat-monad)
+- [Monad Flavoured Foundry Starter](https://github.com/monad-developers/foundry-monad)
+
+#### Mobile
+
+- [Privy embedded wallet and Pimlico Paymaster](https://github.com/monad-developers/react-native-privy-pimlico-gas-sponsorship-template)
+- [Privy embedded wallet](https://github.com/monad-developers/react-native-privy-embedded-wallet-template)
+- [Privy embedded wallet and 0x swap API](https://github.com/monad-developers/expo-swap-template)
+- [Thirdweb Embedded wallet](https://github.com/monad-developers/expo-thirdweb-example)
+
+#### Progressive web app
+
+- [Privy embedded wallet](https://github.com/monad-developers/next-serwist-privy-embedded-wallet)
+- [Privy embedded wallet and 0x swap API](https://github.com/monad-developers/next-serwist-privy-0x)
+- [Privy embedded wallet and Pimlico paymaster](https://github.com/monad-developers/next-serwist-privy-smart-wallet)
+- [Thirdweb embedded wallet](https://github.com/monad-developers/next-serwist-thirdweb)
+- [Example app that mints NFT using Camera](https://github.com/monad-developers/next-serwist-privy-camera-nft)
+
+#### Farcaster Mini App
+
+- [Getting started](https://docs.monad.xyz/templates/farcaster-miniapp/getting-started)
+- [Sending Notifications](https://docs.monad.xyz/templates/farcaster-miniapp/sending-notifications)
+- [Publishing your Mini App](https://docs.monad.xyz/templates/farcaster-miniapp/publishing-miniapp)
+- [Generating custom OG images](https://docs.monad.xyz/templates/farcaster-miniapp/generating-custom-og-images)
+- [Haptics](https://docs.monad.xyz/templates/farcaster-miniapp/haptics)
 
 ## 🌐 Join the Community
 
@@ -63,5 +85,6 @@ Monad is a high-performance Ethereum-compatible L1.
 - [🇻🇳 Monad Vietnam Builders](https://t.me/+2z7g8Gdrp0llYWM1)
 - [Ecosystem Jobs](https://eco-jobs.monad.xyz/jobs)
 - [Subscribe to Monad Developer Events Calendar](https://monad-developers.github.io/monaddevelopercalendar/)
+- [Join the team](https://jobs.ashbyhq.com/monad.foundation)
 
-<!-- TODO: Add Developer Related Initiatives -->
+- [Subscribe to Monad Developer Events Calendar](https://monad-developers.github.io/monaddevelopercalendar/)
