@@ -23,7 +23,8 @@ Monad is a high-performance Ethereum-compatible L1.
 - [R&D Blog](https://blog.monad.xyz/)
 
 ## Guides
-
+   Follow each step to get successful allocation.
+   
 ### Deploy Smart Contract
 - [Foundry](https://docs.monad.xyz/guides/deploy-smart-contract/foundry)
 - [Hardhat](https://docs.monad.xyz/guides/deploy-smart-contract/hardhat)
