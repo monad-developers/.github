@@ -1,6 +1,22 @@
 # Monad
 
-Monad is a high-performance Ethereum-compatible L1.
+Monad is a high-performance, EVM-compatible layer 1. Mainnet is live.
+
+## Mainnet
+
+| | |
+| --- | --- |
+| Chain ID | 143 |
+| Currency | MON |
+| RPC | `https://rpc.monad.xyz` |
+| Block explorers | [MonadVision](https://monadvision.com), [MonadScan](https://monadscan.com) |
+| Throughput | 10,000 TPS |
+| Block time | 300 ms |
+| Finality | 600 ms (speculative at 300 ms) |
+
+- [Docs](https://docs.monad.xyz)
+- [Network Information](https://docs.monad.xyz/getting-started/network-information)
+- [Ecosystem Directory](https://www.monad.xyz/ecosystem)
 
 ## Testnet
 
@@ -8,12 +24,9 @@ Monad is a high-performance Ethereum-compatible L1.
 - [Testnet Faucet](https://faucet.monad.xyz/)
 - [Testnet Block Explorer](https://testnet.monadexplorer.com/)
 - [Testnet Network Visualization](https://www.gmonads.com/)
-- [Ecosystem Directory](https://www.monad.xyz/ecosystem)
 
 ## Quick Reference
-- [Docs](https://docs.monad.xyz)
-- [Network Information](https://docs.monad.xyz/getting-started/network-information)
-- [Tooling & Infra on Testnet](https://docs.monad.xyz/tooling-and-infra)
+- [Tooling & Infra](https://docs.monad.xyz/tooling-and-infra)
 - [RPC Reference](https://docs.monad.xyz/reference)
 - [Developer Portal](https://developers.monad.xyz)
 
@@ -30,7 +43,7 @@ Monad is a high-performance Ethereum-compatible L1.
 - [Remix](https://docs.monad.xyz/guides/deploy-smart-contract/remix)
 
 ### Verify Smart Contract
-- [Foundry](http://docs.monad.xyz/guides/verify-smart-contract/foundry)
+- [Foundry](https://docs.monad.xyz/guides/verify-smart-contract/foundry)
 - [Hardhat](https://docs.monad.xyz/guides/verify-smart-contract/hardhat)
 
 ### Indexing
@@ -86,5 +99,3 @@ Monad is a high-performance Ethereum-compatible L1.
 - [Ecosystem Jobs](https://eco-jobs.monad.xyz/jobs)
 - [Subscribe to Monad Developer Events Calendar](https://monad-developers.github.io/monaddevelopercalendar/)
 - [Join the team](https://jobs.ashbyhq.com/monad.foundation)
-
-- [Subscribe to Monad Developer Events Calendar](https://monad-developers.github.io/monaddevelopercalendar/)
